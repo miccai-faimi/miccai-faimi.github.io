@@ -9,7 +9,7 @@ redirect_from: /2022/
 
 ### TL;DR
 
- - MICCAI 2022 Tutorial(Sept. 17 or 26, Singapore)  
+ - MICCAI 2022 Tutorial (Sept. 17 or 26, Singapore)  
  - Abstract Deadline TBD  
  - Fairness+Medical Imaging based speakers, extended abstracts/posters, and discussion.  
 
