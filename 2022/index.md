@@ -9,9 +9,9 @@ redirect_from: /2022/
 
 ### TL;DR
 
- - Fairness+Medical Imaging based speakers, extended abstracts/posters, and discussion.
- - MICCAI 2022 Workshop (Sept. 17 or 26, Singapore)
- - Abstract Deadline TBD
+ - MICCAI 2022 Tutorial(Sept. 17 or 26, Singapore)  
+ - Abstract Deadline TBD  
+ - Fairness+Medical Imaging based speakers, extended abstracts/posters, and discussion.  
 
 Research in Fairness, Equity, and Accountability in ML has highlighted biases in learned systems between demographic groups, potentially adding risk to outcomes for specfic sub-populations. Recent work has uncovered these risks in both MIC and CAI application domains. Our tutorial aims to host a vibrant discussion of recent and ongoing work in Fairness/+ in Medical Imaging in a half-day tutorial at MICCAI 2022.
 
@@ -55,6 +55,7 @@ Enzo Ferrante, CONICET, Universidad Nacional del Litoral
 Eike Petersen, DTU Compute, Technical University of Denmark  
 Esther Puyol, King's College London  
 Melanie Ganz-Benjaminsen, Dept. of Computer Science, University of Copenhagen & Neruobiology Research Unit, Rigshopitalet  
+Veronika Cheplygina, IT University Copenhagen  
 
 ### Contacts
 
