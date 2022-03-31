@@ -24,8 +24,9 @@ Alongside invited lectures, we also invite the submission of extended abstracts 
  - Ethics of ML in medical imaging and medicine
  - Legal/regulatory considerations of fairness
  - Causality and fairness in medical imaging
- - Interplay of algorithmic and dataset bias
-We are not planning on producing published procedings, and thus ongoing or already published work are also welcome as abstracts.
+ - Interplay of algorithmic and dataset bias 
+
+Ongoing or already published work are also welcome as abstracts.
 
 ### News & Important Dates
 
