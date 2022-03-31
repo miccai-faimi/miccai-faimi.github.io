@@ -1,5 +1,5 @@
 ---
-title: MICCAI Fairness in AI and Medical Imaging 
+title: MICCAI Fairness of AI in Medical Imaging 
 description: "@MICCAI 2022 <br> September 2022"
 
 permalink: /2022/index.html
