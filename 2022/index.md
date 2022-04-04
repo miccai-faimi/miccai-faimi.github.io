@@ -54,7 +54,7 @@ Daniel Moyer, CSAIL, Massachusetts Institute of Technology
 Enzo Ferrante, CONICET, Universidad Nacional del Litoral  
 Eike Petersen, DTU Compute, Technical University of Denmark  
 Esther Puyol, King's College London  
-Melanie Ganz-Benjaminsen, Dept. of Computer Science, University of Copenhagen & Neruobiology Research Unit, Rigshopitalet  
+Melanie Ganz-Benjaminsen, Dept. of Computer Science, University of Copenhagen & Neurobiology Research Unit, Rigshopitalet  
 Veronika Cheplygina, IT University Copenhagen  
 
 ### Contacts
