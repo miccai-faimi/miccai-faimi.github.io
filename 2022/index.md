@@ -13,7 +13,7 @@ redirect_from: /2022/
  - MICCAI 2022 Tutorial (Sept. 18 or 22, Singapore)  
  - Abstract Deadline TBD  
 
-### Abstract & Call
+### Aim and Scope
 
 Research in Fairness, Equity, and Accountability in ML has highlighted biases in learned systems between demographic groups, potentially adding risk to outcomes for specfic sub-populations. Recent work has uncovered these risks in both MIC and CAI application domains. Our tutorial aims to host a vibrant discussion of recent and ongoing work in Fairness/+ in Medical Imaging in a half-day tutorial at MICCAI 2022.
 
@@ -28,7 +28,7 @@ Alongside invited lectures, we also invite the submission of extended abstracts 
  - Causality and fairness in medical imaging
  - Interplay of algorithmic and dataset bias 
 
-Ongoing or already published work are also welcome as abstracts.
+Accepted abstracts are non-archival, and thus ongoing or already published work are also welcome.
 
 ### News & Important Dates
 
