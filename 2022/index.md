@@ -47,15 +47,15 @@ TBD
 
 ### Organizers
 
-Aasa Feragen, DTU Compute, Technical University of Denmark  
-Andrew King, King's College London  
-Ben Glocker, Imperial College London  
-Daniel Moyer, CSAIL, Massachusetts Institute of Technology  
-Enzo Ferrante, CONICET, Universidad Nacional del Litoral  
-Eike Petersen, DTU Compute, Technical University of Denmark  
-Esther Puyol, King's College London  
-Melanie Ganz-Benjaminsen, Dept. of Computer Science, University of Copenhagen & Neurobiology Research Unit, Rigshopitalet  
-Veronika Cheplygina, IT University Copenhagen  
+**Aasa Feragen**, DTU Compute, Technical University of Denmark  
+**Andrew King**, King's College London  
+**Ben Glocker**, Imperial College London  
+**Daniel Moyer**, CSAIL, Massachusetts Institute of Technology  
+**Enzo Ferrante**, CONICET, Universidad Nacional del Litoral  
+**Eike Petersen**, DTU Compute, Technical University of Denmark  
+**Esther Puyol**, King's College London  
+**Melanie Ganz-Benjaminsen**, Dept. of Computer Science, University of Copenhagen & Neurobiology Research Unit, Rigshospitalet  
+**Veronika Cheplygina**, IT University Copenhagen  
 
 ### Contacts
 
