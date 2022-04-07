@@ -28,7 +28,7 @@ Alongside invited lectures, we also invite the submission of extended abstracts 
  - Causality and fairness in medical imaging
  - Interplay of algorithmic and dataset bias 
 
-Accepted abstracts are non-archival, and thus ongoing or already published work are also welcome.
+Accepted abstracts are non-archival, and thus ongoing or already published work is also welcome.
 
 ### News & Important Dates
 
